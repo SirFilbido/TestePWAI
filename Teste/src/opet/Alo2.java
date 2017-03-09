@@ -4,5 +4,6 @@ public class Alo2 {
 
     public int idAlo2;
     public int delos;
+    public int sd;
 
 }
